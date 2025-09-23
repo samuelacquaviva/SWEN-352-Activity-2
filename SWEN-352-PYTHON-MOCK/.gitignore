@@ -138,4 +138,4 @@ pyproject.toml
 uv.lock
 
 #ignore .DS_Store 
-.DS_Store 
+.DS_Store
