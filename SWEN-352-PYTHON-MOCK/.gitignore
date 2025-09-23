@@ -136,3 +136,6 @@ cython_debug/
 .python-version
 pyproject.toml
 uv.lock
+
+#ignore .DS_Store 
+.DS_Store 
